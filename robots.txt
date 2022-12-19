@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Goldstrom.github.io/sitemap.xml
