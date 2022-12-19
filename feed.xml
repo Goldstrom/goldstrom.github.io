@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>David G. Test Page</title>
-    <link href="https://Goldstrom.github.io/feed.xml" rel="self" />
-    <link href="https://Goldstrom.github.io" />
+    <link href="https://goldstrom.github.io/feed.xml" rel="self" />
+    <link href="https://goldstrom.github.io" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>David Goldstrom</name>
     </author>
-    <id>https://Goldstrom.github.io</id>
+    <id>https://goldstrom.github.io</id>
 
 </feed>
