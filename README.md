@@ -1,2 +1,2 @@
-# dgoldstrom.github.io
+# dgoldstrom
 This is the initial "Test Page" 
